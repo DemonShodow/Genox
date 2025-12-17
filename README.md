@@ -1,9 +1,5 @@
 <h1 align="center">Genox</h1>
 
-<p align="center">
-    <img src=".github/6199732648821853235.jpg" >
-</p>
-
 
 <p align="center"><b>A beginners friendly, Automated phishing tool with templates.</b></p>
 
